@@ -2,6 +2,6 @@
 namespace: mc-dev
 resources:
 - ./../../base
-- namespace.yml
+- ns.yml
 patchesStrategicMerge:
 - deploy.yml
