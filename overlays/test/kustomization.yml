@@ -1,0 +1,7 @@
+---
+namespace: mc-test
+resources:
+- ./../../base
+- ns.yml
+patchesStrategicMerge:
+- deploy.yml
